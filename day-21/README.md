@@ -1,5 +1,5 @@
 # AWS ECS Deep Dive
-
+![image](https://d1.awsstatic.com/Product-Page-Diagram_Amazon-Elastic-Container-Service%20march%202023.6ee17a3146661f893bf1ee674aceb65efdf864bd.png)
 ## Introduction
 
 In the ever-evolving world of cloud computing, containerization has emerged as a pivotal technology, enabling developers to package their applications along with all dependencies into a single, portable unit. Amazon Elastic Container Service (ECS), a fully managed container orchestration service from AWS, simplifies the deployment, management, and scaling of containerized applications.
