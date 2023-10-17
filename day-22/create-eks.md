@@ -1,8 +1,8 @@
-# Install EKS
+# Create EKS using CLI
 
 Please follow the prerequisites doc before this.
 
-## Install using Fargate
+## Create using Fargate
 
 ```
 eksctl create cluster --name demo-cluster --region ap-south-1 --fargate
