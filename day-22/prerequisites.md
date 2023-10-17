@@ -15,4 +15,8 @@ sudo mv /tmp/eksctl /usr/local/bin
 – A command line tool for working with AWS services, including Amazon EKS. For more information,
 
 in the AWS Command Line Interface User Guide. After installing the AWS CLI, we recommend that you also configure it. For more information,
-[Quick configuration](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-config) with aws configure in the AWS Command Line Interface User Guide.
+## [with aws configure in the AWS Command Line Interface User Guide.](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-config) 
+
+```
+aws eks update-kubeconfig --region region-code --name my-cluster
+```
