@@ -6,8 +6,11 @@
 
 ## [eksctl](https://eksctl.io/installation/) 
 – A command line tool for working with EKS clusters that automates many individual tasks. For more information, 
+```
+curl --silent --location "https://github.com/weaveworks/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp
 
-
+sudo mv /tmp/eksctl /usr/local/bin
+  ```
 ## [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html) 
 – A command line tool for working with AWS services, including Amazon EKS. For more information,
 
