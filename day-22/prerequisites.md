@@ -1,12 +1,15 @@
 # prerequisites
 
-kubectl – A command line tool for working with Kubernetes clusters. For more information, 
-[Installing or updating kubectl](https://kubernetes.io/docs/tasks/tools/).
+## [kubectl](https://kubernetes.io/docs/tasks/tools/)
+– A command line tool for working with Kubernetes clusters. For more information, 
 
-eksctl – A command line tool for working with EKS clusters that automates many individual tasks. For more information, 
-[Installing or updating](https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html).
 
-AWS CLI – A command line tool for working with AWS services, including Amazon EKS. For more information,
-[Installing, updating, and uninstalling the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html) 
+## [eksctl](https://eksctl.io/installation/) 
+– A command line tool for working with EKS clusters that automates many individual tasks. For more information, 
+
+
+## [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html) 
+– A command line tool for working with AWS services, including Amazon EKS. For more information,
+
 in the AWS Command Line Interface User Guide. After installing the AWS CLI, we recommend that you also configure it. For more information,
 [Quick configuration](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-config) with aws configure in the AWS Command Line Interface User Guide.
