@@ -1,7 +1,7 @@
 # prerequisites
 
 kubectl – A command line tool for working with Kubernetes clusters. For more information, 
-[Installing or updating kubectl](https://docs.aws.amazon.com/eks/latest/userguide/install-kubectl.html).
+[Installing or updating kubectl](https://kubernetes.io/docs/tasks/tools/).
 
 eksctl – A command line tool for working with EKS clusters that automates many individual tasks. For more information, 
 [Installing or updating](https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html).
