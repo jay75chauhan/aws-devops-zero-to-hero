@@ -1,5 +1,7 @@
 # 2048 App
 
+https://docs.aws.amazon.com/eks/latest/userguide/alb-ingress.html
+
 ## Create Fargate profile
 
 ```
